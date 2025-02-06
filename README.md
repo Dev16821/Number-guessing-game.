@@ -22,5 +22,3 @@ The project does not explicitly specify a license; thus, the default copyright a
 
 ### Conclusion
 The Number Guessing Game is a perfect blend of entertainment and programming, making it an ideal project for both novice and experienced developers interested in creating interactive applications. 
-
-For more details, visit the [GitHub Repository](https://github.com/Dev16821/Number-guessing-game/).
